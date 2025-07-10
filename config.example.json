@@ -1,0 +1,7 @@
+{
+  "fecha_nacimiento": "DD/MM/AAAA",
+  "codigo": ["BLOQUE1", "BLOQUE2", "BLOQUE3", "BLOQUE4"], # 4 bloques de 5 dígitos
+  "email": "tu_correo@gmail.com", # Cambiar por el tuyo
+  "contrasena": "tu_contraseña_de_aplicacion", # Contraseña de aplicación
+  "destinatario": "destino@gmail.com" # Destino del aviso
+}
